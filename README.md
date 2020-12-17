@@ -1,3 +1,3 @@
 # gameDemo
 
-![](animated.gif)
+![](animated.GIF)
